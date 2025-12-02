@@ -1,0 +1,9 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#f3f4f6"/>
+  <rect x="200" y="150" width="400" height="300" fill="white" rx="10" stroke="#e5e7eb" stroke-width="2"/>
+  <rect x="250" y="200" width="300" height="30" fill="#e5e7eb" rx="5"/>
+  <rect x="250" y="250" width="200" height="30" fill="#e5e7eb" rx="5"/>
+  <rect x="250" y="300" width="280" height="30" fill="#e5e7eb" rx="5"/>
+  <circle cx="550" cy="215" r="15" fill="#10b981"/>
+  <text x="400" y="500" font-family="Arial, sans-serif" font-size="24" fill="#374151" text-anchor="middle" font-weight="bold">Remote Work</text>
+</svg>

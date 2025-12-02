@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "topic": "Future of AI in Creative Industries",
+    "tone": "Inspirational",
+    "platform": "LinkedIn",
+    "main_post": "The future of creativity isn't human vs. AI—it's human with AI. Together, we're unlocking possibilities we never imagined. 🚀✨",
+    "variants": [
+      "AI isn't replacing creativity—it's amplifying it. The future belongs to those who embrace collaboration between human intuition and machine intelligence.",
+      "The creative industries are on the brink of a revolution. AI tools are becoming co-pilots for artists, designers, and creators worldwide."
+    ],
+    "hashtags": ["#AI", "#Creativity", "#Innovation", "#FutureOfWork"],
+    "imagePrompt": "Futuristic abstract representation of AI and human creativity merging, neon colors, digital art",
+    "imageUrl": "/assets/post-1.svg",
+    "createdAt": "2024-01-15T10:30:00Z"
+  },
+  {
+    "id": "2",
+    "topic": "Sustainable Tech Solutions",
+    "tone": "Professional",
+    "platform": "Twitter",
+    "main_post": "Green tech isn't just a trend—it's the foundation of tomorrow's economy. Every innovation counts. 🌱💡",
+    "variants": [
+      "Sustainability meets innovation. Green technology is reshaping how we think about progress and responsibility.",
+      "The path to a sustainable future is paved with smart technology and conscious design decisions."
+    ],
+    "hashtags": ["#GreenTech", "#Sustainability", "#Innovation", "#ClimateAction"],
+    "imagePrompt": "Modern sustainable technology solutions, green energy, eco-friendly design",
+    "imageUrl": "/assets/post-2.svg",
+    "createdAt": "2024-01-14T14:20:00Z"
+  },
+  {
+    "id": "3",
+    "topic": "Remote Work Productivity Tips",
+    "tone": "Casual",
+    "platform": "Instagram",
+    "main_post": "Master your remote work setup 🏠✨ Here are 5 game-changing tips that'll boost your productivity from anywhere!",
+    "variants": [
+      "Working from home got you feeling overwhelmed? Try these proven strategies to stay focused and energized all day long.",
+      "Your home office setup matters more than you think. Small changes can make a huge difference in your daily productivity."
+    ],
+    "hashtags": ["#RemoteWork", "#Productivity", "#WorkFromHome", "#Tips"],
+    "imagePrompt": "Modern home office setup with plants, natural lighting, minimalist design",
+    "imageUrl": "/assets/post-3.svg",
+    "createdAt": "2024-01-13T09:15:00Z"
+  },
+  {
+    "id": "4",
+    "topic": "Cybersecurity Best Practices",
+    "tone": "Educational",
+    "platform": "LinkedIn",
+    "main_post": "Protect your digital life with these essential cybersecurity practices. Knowledge is your best defense. 🔒🛡️",
+    "variants": [
+      "In an increasingly connected world, cybersecurity literacy is no longer optional—it's essential for everyone.",
+      "Stay one step ahead of cyber threats by implementing these simple but effective security measures."
+    ],
+    "hashtags": ["#Cybersecurity", "#DigitalSafety", "#TechTips", "#OnlineSecurity"],
+    "imagePrompt": "Abstract cybersecurity concept, digital lock, shield, network protection",
+    "imageUrl": "/assets/post-4.svg",
+    "createdAt": "2024-01-12T16:45:00Z"
+  },
+  {
+    "id": "5",
+    "topic": "Minimalist Design Philosophy",
+    "tone": "Inspirational",
+    "platform": "Pinterest",
+    "main_post": "Less is more. Minimalist design teaches us that true elegance comes from simplicity and intentional choices. ✨",
+    "variants": [
+      "In a world full of noise, minimalist design offers clarity, focus, and timeless beauty.",
+      "Embrace the power of negative space. Sometimes what you remove is more important than what you add."
+    ],
+    "hashtags": ["#Minimalism", "#Design", "#Aesthetics", "#SimpleLiving"],
+    "imagePrompt": "Clean minimalist design, white space, simple geometric shapes, modern aesthetics",
+    "imageUrl": "/assets/post-5.svg",
+    "createdAt": "2024-01-11T11:30:00Z"
+  },
+  {
+    "id": "6",
+    "topic": "Healthy Digital Habits",
+    "tone": "Friendly",
+    "platform": "Facebook",
+    "main_post": "Build healthier relationships with technology. It's all about balance, boundaries, and being present. 📱❤️",
+    "variants": [
+      "Technology should enhance your life, not dominate it. Here's how to create sustainable digital habits.",
+      "Take back control of your screen time with these practical strategies for a healthier tech-life balance."
+    ],
+    "hashtags": ["#DigitalWellness", "#Mindfulness", "#HealthyHabits", "#TechBalance"],
+    "imagePrompt": "Person practicing digital wellness, phone in drawer, peaceful workspace, mindfulness",
+    "imageUrl": "/assets/post-6.svg",
+    "createdAt": "2024-01-10T08:00:00Z"
+  }
+]

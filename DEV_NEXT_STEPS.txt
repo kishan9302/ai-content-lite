@@ -1,0 +1,93 @@
+DEV_NEXT_STEPS.txt
+==================
+
+This file contains ready-to-use Cursor prompts to iterate on the AI Content Lite project.
+Copy and paste these prompts into Cursor to continue development.
+
+1. NAVIGATION & UI IMPROVEMENTS
+   ----------------------------
+   "Make the navbar sticky with a smooth scroll effect and add animated underline on hover for active links"
+   
+   "Add a loading spinner component and use it consistently across all pages during data fetching"
+   
+   "Create a toast notification system for copy actions and form submissions with animations"
+
+2. STYLING ENHANCEMENTS
+   --------------------
+   "Update the color palette to use more vibrant neon colors and add glow effects on buttons"
+   
+   "Add glassmorphism effects to all cards with stronger backdrop blur and transparency"
+   
+   "Implement smooth page transitions using Framer Motion between routes"
+
+3. FUNCTIONALITY EXPANSION
+   -----------------------
+   "Add a search bar to the gallery page to filter posts by topic, platform, or tone"
+   
+   "Implement a favorites/bookmark feature where users can save their favorite generated posts"
+   
+   "Add export functionality to download posts as text files or copy as formatted HTML"
+
+4. API INTEGRATIONS
+   -----------------
+   "Connect OpenRouter API key to the generate endpoint and replace mock responses with real AI content"
+   
+   "Add environment variable support for API keys and create a .env.example file"
+   
+   "Implement error handling and retry logic for API calls with user-friendly error messages"
+
+5. DATABASE & STORAGE
+   ------------------
+   "Set up Supabase database and migrate sample posts from JSON to database queries"
+   
+   "Add user authentication using NextAuth.js and protect dashboard routes"
+   
+   "Implement persistent storage for user-generated posts linked to their accounts"
+
+6. PERFORMANCE OPTIMIZATIONS
+   -------------------------
+   "Add React.memo to expensive components and optimize re-renders in the dashboard"
+   
+   "Implement virtual scrolling for the gallery grid to handle large lists of posts"
+   
+   "Add service worker for offline functionality and PWA capabilities"
+
+7. IMAGE HANDLING
+   ---------------
+   "Integrate Unsplash API to fetch real images based on image prompts"
+   
+   "Add image upload functionality for users to use their own images"
+   
+   "Implement image cropping and editing tools before adding to posts"
+
+8. ADVANCED FEATURES
+   -----------------
+   "Add a post scheduler that lets users schedule posts for future publication"
+   
+   "Create a bulk generator that creates multiple posts at once from a CSV or JSON file"
+   
+   "Implement A/B testing UI to compare different variants side by side"
+
+9. DEPLOYMENT & DEV OPS
+   --------------------
+   "Set up Vercel deployment with environment variables and custom domain"
+   
+   "Add Sentry for error tracking and monitoring in production"
+   
+   "Create a staging environment workflow in GitHub Actions"
+
+10. CONTENT MANAGEMENT
+    ------------------
+    "Add a rich text editor for editing generated posts before saving"
+    
+    "Create post templates that users can save and reuse"
+    
+    "Implement version history to track changes to posts over time"
+
+---
+
+QUICK TIPS:
+- Use "Search codebase" (Cmd/Ctrl + Shift + F) to find existing code before making changes
+- Check TODO.md for prioritized next steps
+- Run "npm run lint" after making changes to catch issues early
+- Use "npm run test" to ensure tests pass before committing
